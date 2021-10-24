@@ -1,4 +1,5 @@
 # auditorium-website
+     
      The given website showcases the different type of halls available at the auditorium with its facilities. It also displays the necessary contact details.
 The Website showcases the various events hosted at the auditorium with its individual features and facilities provided by each hall. 
      Users can book Auditorium by filling the needed details and making necessary payment. Users will receive information about upcoming events via mail or dashboard. 
